@@ -1,0 +1,22 @@
+.App{
+  background-color: aquamarine !important;
+  /* display: flex; */
+  /* justify-content: center; */
+  align-items: center;
+  height: 100vh; 
+}
+
+input{
+  font-size: 14px !important;
+  height: 2rem !important;
+  margin: 5px 0px !important;
+  width: 70%;
+}
+
+button{
+  background-color: crimson;
+  color: white;
+  border: none;
+  padding: 8px !important;
+  border-radius: 5px !important;
+}
